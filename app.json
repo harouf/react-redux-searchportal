@@ -1,0 +1,21 @@
+{
+  "name": "react-search-portal",
+  "description": "ReactJS based resource search portal.",
+  "repository": "https://github.com/harouf/react-search-portal",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": [
+    "search",
+    "portal",
+    "react",
+    "isomorphic",
+    "universal",
+    "webpack",
+    "express",
+    "hot reloading",
+    "react-hot-reloader",
+    "redux",
+    "starter",
+    "boilerplate",
+    "babel"
+  ]
+}
