@@ -1,4 +1,4 @@
-# React Redux Universal Hot Example
+# React Redux Search Portal
 
 ---
 
